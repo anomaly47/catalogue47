@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+
+  content: MyText
+  user: commander
+
+two:
+
+  content: MyText
+  user: commander
+
+three:
+
+  content: To cat or not to cat this is the cat
+  user: meow

@@ -1,0 +1,11 @@
+commander:
+  first_name: "William"
+  last_name: "Riker"
+  email: "tylerplaysmusic@gmail.com"
+  profile_name: "Commander"
+
+meow:
+  first_name: "catmanda"
+  last_name: "McScruffins"
+  email: "cat@scruffers.net"
+  profile_name: "scruffins"
