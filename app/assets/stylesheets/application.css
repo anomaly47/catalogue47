@@ -29,3 +29,8 @@ body {
 .alert {
 	margin-top: 10px;
 }
+
+textarea#status_content.text.required {
+	width: 400px;
+	height: 100px;
+}
