@@ -1,5 +1,15 @@
-<h1>New status</h1>
 
-<%= render 'form' %>
+<div class="row">
+	<div class="span4">
 
-<%= link_to 'Back', statuses_path %>
+		<%= image_tag("cat.jpeg", :alt => "cats typing") %>
+
+	</div>
+	<div class="span8">
+		<h1 class="new-log">Say something purrrfect.</h1>
+
+		<%= render 'form' %>
+
+		<%= link_to 'Back', statuses_path %>
+	</div>
+</div>
