@@ -9,3 +9,11 @@ meow:
   last_name: "McScruffins"
   email: "cat@scruffers.net"
   profile_name: "scruffins"
+
+janeway:
+  first_name: "Captain"
+  last_name: "Janeway"
+  email: "zca.tyler@gmail.com"
+  profile_name: "CaptainJaneway"
+
+  
